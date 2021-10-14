@@ -1,0 +1,20 @@
+INTRO:
+
+http://webdev.slides.com/coltsteele/intro-to-the-dom-70#/8
+http://webdev.slides.com/coltsteele/intro-to-the-dom-70#/4
+
+SELECT AND MANUPLATE:
+
+http://webdev.slides.com/coltsteele/intro-to-the-dom-70#/8
+
+SELECTORS:
+
+http://webdev.slides.com/coltsteele/deck-30-7
+
+DOM MANIPULATION:
+
+http://webdev.slides.com/coltsteele/deck-30-31-72#/8
+
+EVENTS:
+
+http://webdev.slides.com/coltsteele/dom-events-73#/
